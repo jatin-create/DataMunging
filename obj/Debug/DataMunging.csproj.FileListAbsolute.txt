@@ -1,0 +1,9 @@
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\bin\Debug\DataMunging.exe.config
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\bin\Debug\DataMunging.exe
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\bin\Debug\DataMunging.pdb
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\obj\Debug\DataMunging.csprojAssemblyReference.cache
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\obj\Debug\DataMunging.csproj.CoreCompileInputs.cache
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\obj\Debug\DataMunging.exe
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\obj\Debug\DataMunging.pdb
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\bin\Debug\football.dat
+C:\Users\skushwah\source\repos\DataMunging\DataMunging\bin\Debug\weather.dat
