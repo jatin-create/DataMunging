@@ -15,7 +15,7 @@ namespace DataMunging
         {
             string minDiffTeam = PrintMinDiff(1,6,8, @"football.dat");
 
-            Console.WriteLine("Min. Goal Diff Team = {0}", minDiffTeam);
+            Console.WriteLine("Mininum Goal Diff Team = {0}", minDiffTeam);
 
             string minWeatherSpread = PrintMinDiff(0,1,2, @"weather.dat");
 
