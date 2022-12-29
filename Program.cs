@@ -19,7 +19,7 @@ namespace DataMunging
 
             string minWeatherSpread = PrintMinDiff(0,1,2, @"weather.dat");
 
-            Console.WriteLine("Min. Weather Spread on = {0}", minWeatherSpread);
+            Console.WriteLine("Mininum Weather Spread on = {0}", minWeatherSpread);
 
             Console.ReadLine();
         }
